@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: Gradle Wrapper
+Implementation-Vendor: Gradle, Inc.
+Implementation-Vendor-Id: org.gradle
+SPDX-License-Identifier: Apache-2.0
+Main-Class: org.gradle.wrapper.GradleWrapperMain
+Enable-Native-Access: ALL-UNNAMED
+
